@@ -12,6 +12,7 @@
 - CSS
 - PHP v7.1 for backend
 - Ajax for dynamic drop downs
+- MySQL for DB
 
 ## Contributors
 
